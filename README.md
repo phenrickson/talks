@@ -1,6 +1,9 @@
 # talks
 presentations delivered at various meet ups and symposiums
 
+## The Curse of Knowledge: What Do They Mean When They Say AI?
+- on the intersection of data science and cybersecurity, from a data scientist who knows next to nothing about cybersecurity
+
 ## Science and Bullshit: What We Can't Not Know in the 'Age of AI'
 - on spotting the difference between science and snake oil in a marketplace that is obsessed with AI. delivered at AEBS DI Symposium and organizations in the Midwest.
 
